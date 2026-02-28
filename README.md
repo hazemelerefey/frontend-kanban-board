@@ -1,6 +1,6 @@
 # ProManage - Kanban Task Board
 
-![Project Banner Placeholder](https://via.placeholder.com/800x200?text=ProManage+Kanban+Board)
+![Project Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=ProManage%20Kanban%20Board&fontSize=60&animation=fadeIn&fontAlignY=38)
 
 > A beautifully designed Kanban board for agile project management enabling drag-and-drop task progression.
 
